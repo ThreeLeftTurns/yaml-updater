@@ -19,6 +19,7 @@ Install the required Python package using pip:
 >pip install ruamel.yaml
 
 Usage:
+
 The project consists of two main files: update.py and main.py. update.py contains the logic for merging YAML files, while main.py is the entry point for the user to execute the merge process.
 
 For merging to take place the two files must be located inside the folder downloaded from the github repo
@@ -26,5 +27,8 @@ For merging to take place the two files must be located inside the folder downlo
 follow the steps printed to the terminal by typing the name of the files you want to merge
     Force Update (y/n): Updating existing keys without adding new ones.
     Full Update (y/n): Overwriting the original file with the new file's content, including adding new keys and updating existing ones.
+
+example: 
+![image](https://github.com/ThreeLeftTurns/yaml-updater/assets/34759970/4b7728ab-d081-48db-8b28-872abe882119)
 
 User under your own discression
