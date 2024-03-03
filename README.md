@@ -31,4 +31,4 @@ follow the steps printed to the terminal by typing the name of the files you wan
 example: 
 ![image](https://github.com/ThreeLeftTurns/yaml-updater/assets/34759970/4b7728ab-d081-48db-8b28-872abe882119)
 
-User under your own discression
+Use under your own discression
